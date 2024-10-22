@@ -1,0 +1,243 @@
+body {
+   background-image: url(Images/Cafe\ a.jpg);
+   font-family: Playpen Sans;
+    
+    
+}
+   h1 {
+    color: red;
+
+   }
+
+   
+
+   .Title{
+      background-color: rgb(106, 4, 15);
+      color: rgb(250, 163, 7);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding:8px;
+      width: 50%;
+      text-align: center;
+      border-radius: 2px 24px;
+      }
+      
+   .header{
+      background-color: rgb(106, 4, 15);
+      color: rgb(250, 163, 7);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding:8px;
+      width: 50%;
+      margin-top: 20px;
+      text-align: center;
+      border-radius: 2px 24px;
+   }
+   
+   .thirdbox{
+      background-color: rgb(106, 4, 15);
+      color: rgb(250, 163, 7);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding:8px;
+      width: 50%;
+      margin-top: 20px;
+      text-align: center;
+      border-radius: 2px 24px;
+   }
+
+   .fourthbox{
+      background-color: rgb(106, 4, 15);
+      color: rgb(250, 163, 7);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding:8px;
+      width: 50%;
+      margin-top: 20px;
+      text-align: center;
+      border-radius: 2px 24px;
+   }
+
+   .links {
+      background-color: rgb(106, 4, 15);
+      color: rgb(250, 163, 7);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding:8px;
+      width: 50%;
+      margin-top: 20px;
+      text-align: center;
+      border-radius: 2px 24px;
+   }
+   
+
+
+   .table{
+      background-color: rgb(106, 4, 15);
+      color: rgb(250, 163, 7);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding: 10px;
+      width: 50%;
+      margin-top: 20px;
+      text-align: center;
+      border-bottom: 1px solid rgb(0, 0, 0);
+      border-radius: 2px 24px;
+
+   }
+
+   .mynav a.active {
+      background-color: rgb(157, 2, 8);
+   
+   }
+
+   .mynav a.active:hover {
+      background-color: rgb(55, 6, 23);
+   }
+
+   .mynav a {
+      padding: 8px 18px;
+      background-color: rgb(250, 163, 7);
+      color: rgb(0, 0, 0);
+      border-radius: 2px 24px;
+  }
+  
+  .mynav a:hover {
+      background-color: rgb(232, 93, 4);
+  }
+  
+
+
+  style
+        table, th, td, tr {
+            border: 3px solid rgb(131, 131, 131);
+            border-collapse: collapse;
+            color: rgba(250, 163, 7);
+
+          }
+          
+          tr:nth-child(even) {
+            color: rgba(250, 163, 7);
+          }
+          
+          td {
+            color: rgba(250, 163, 7);
+          }
+          th {
+            color: rgba(250, 163, 7);
+          }
+
+
+
+          .Title2{
+            background-color: rgb(221, 161, 94);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            margin-left: 25%;
+            padding:8px;
+            width: 50%;
+            text-align: center;
+            border-radius: 2px 24px;
+            }
+            
+         .header2{
+            background-color: rgb(221, 161, 94);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            margin-left: 25%;
+            padding:8px;
+            width: 50%;
+            margin-top: 20px;
+            text-align: center;
+            border-radius: 2px 24px;
+         }
+         
+         .thirdbox2{
+            background-color: rgb(221, 161, 94);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            margin-left: 25%;
+            padding:8px;
+            width: 50%;
+            margin-top: 20px;
+            text-align: center;
+            border-radius: 2px 24px;
+         }
+      
+         .fourthbox2{
+            background-color: rgb(221, 161, 94);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            margin-left: 25%;
+            padding:8px;
+            width: 50%;
+            margin-top: 20px;
+            text-align: center;
+            border-radius: 2px 24px;
+         }
+      
+         .links2 {
+            background-color: rgb(221, 161, 94);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            margin-left: 25%;
+            padding:8px;
+            width: 50%;
+            margin-top: 20px;
+            text-align: center;
+            border-radius: 2px 24px;
+         }
+         
+      
+      
+         .table2{
+            background-color: rgb(221, 161, 94);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            margin-left: 25%;
+            padding: 10px;
+            width: 50%;
+            margin-top: 20px;
+            text-align: center;
+            border-bottom: 1px solid rgb(0, 0, 0);
+            border-radius: 2px 24px;
+      
+         }
+      
+         .mynav2 a.active2 {
+            background-color: rgb(255, 0, 0);
+         
+         }
+      
+         .mynav2 a.active2:hover {
+            background-color: rgb(116, 0, 0);
+         }
+      
+         .mynav2 a {
+            padding: 8px 18px;
+            background-color: rgb(126, 126, 126);
+            color: rgb(0, 0, 0);
+            border-radius: 2px 24px;
+        }
+        
+        .mynav2 a:hover {
+            background-color: rgb(66, 66, 66);
+        }
+        
+      
+      style
+              table, th, td {
+                  border: 3px solid black;
+                  border-collapse: collapse;
+                  color: rgb(0, 0, 0);
+                }
+                
+                tr:nth-child(even) {
+                  background-color: rgba(55, 6, 23, 0.4);
+                  color: rgb(0, 0, 0);
+                }
+                
+                th:nth-child(even),td:nth-child(even) {
+                  background-color: rgba(208, 0, 0, 0.2);
+                  color: rgb(0, 0, 0);
+                }
