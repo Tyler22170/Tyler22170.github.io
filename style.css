@@ -113,6 +113,14 @@ text-decoration: none;
       text-align: center;
       border-radius: 2px 24px;
     }
+    .mynav a.active {
+      background-image: url(Images/pngtree-mysterious-cosmic-space-galaxy-nebula-background-picture-image_1179108.jpg);
+   
+   }
+
+   .mynav a.active:hover {
+      background-image: url(Images/Screenshot\ 2024-10-09\ 113651.jpg.png);
+   }
 
    .mynav a {
       padding: 8px 18px;
