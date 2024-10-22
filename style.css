@@ -116,7 +116,7 @@ text-decoration: none;
 
    .mynav a {
       padding: 8px 18px;
-      background-image: url(images/asaa.jpg);
+      background-image: url(/Images/asaa.jpg);
       color: rgb(0, 0, 0);
       border-radius: 2px 24px;
   }
