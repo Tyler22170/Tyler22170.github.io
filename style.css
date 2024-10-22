@@ -8,7 +8,11 @@ body {
       color: rgb(255, 0, 0);
  
     }
- 
+    a:link, a:visited {
+      color: rgb(255, 255, 255);
+text-decoration: none;
+    }
+
 
     .title{
       background-image: url(images/NEW!!!!!.jpg);
