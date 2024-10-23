@@ -7,6 +7,32 @@
     <title>Homepage</title>
     
     <link rel="stylesheet" href="style.css">
+    
+    <style>
+    
+        .flex-container {
+        
+            display: flex;
+        
+            flex-wrap: nowrap;
+        
+            background: transparent;
+        
+        }
+          
+          .flex-container > div {
+        
+            background: transparent;
+        
+            width: 100%;
+        
+            flex-flow: row wrap;
+        
+            text-align: center;
+            
+          }
+        
+        </style>
 
     </head>
     
@@ -32,7 +58,15 @@
 
         <div class="fourthbox">This website is just a about me and what i do i will be adding more to it as i go</div>
 
-        <div class="fifthbox"><img src="Images/Philips_Hue_iCUE_04.width-1000.bgcolor-000.format-jpeg.jpg" width="50%"></div>
+        <div class="fifthbox"><div class="flex-container">
+            
+                <div><img src="Images/Philips_Hue_iCUE_04.width-1000.bgcolor-000.format-jpeg.jpg" width="100%"></div>
+                
+                <div><img src="Images/vscode logo.png" width="50%"> </div>
+    
+            </div></div>
+            
+            
 
         <div class="footer">🌗 changes the site to a more readable colour if it is needed</div>
         
