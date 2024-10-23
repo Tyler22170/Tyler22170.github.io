@@ -113,6 +113,17 @@ text-decoration: none;
       text-align: center;
       border-radius: 2px 24px;
     }
+    .darkmode{
+      background: transparent;
+      color: rgb(248, 196, 99);
+      border: 2px solid rgb(220, 47, 2);
+      margin-left: 25%;
+      padding:8px;
+      width: 50%;
+      margin-top: 20px;
+      text-align: center;
+      border-radius: 2px 24px;
+    }
     .mynav a.active {
       background-image: url(Images/pngtree-mysterious-cosmic-space-galaxy-nebula-background-picture-image_1179108.jpg);
    
