@@ -1,257 +1,258 @@
 body {
 
-  background-image: url(Images/purple-space-galaxy-tablet-a798ak1rtqcjb65l.jpg); 
+background-image: url(Images/purple-space-galaxy-tablet-a798ak1rtqcjb65l.jpg); 
 
-  font-family: Playpen Sans;
+font-family: Playpen Sans;
      
- }
+}
  
- h1 {
+h1 {
  
-  color: rgb(255, 0, 0);
+color: rgb(255, 0, 0);
  
-    }
+}
  
-    a:link, a:visited {     
+a:link, a:visited {     
 
-      text-decoration: none;
+text-decoration: none;
 
-    }
+}
 
 
-    .title{
+.title{
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
-       }
+border-radius: 2px 24px;
+
+}
    
-    .header{
+.header{
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-    }
+}
     
-    .thirdbox{
+.thirdbox{
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-    }
+}
  
-    .fourthbox{
+.fourthbox{
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-    }
+}
 
-    .fifthbox {
+.fifthbox {
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-    }
+}
     
-    .links {
+.links {
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-    }
+}
      
-    .table{
+.table{
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
  
-    }
+}
 
-    .footer{
+.footer{
 
-      background-image: url(Images/NEW!!!!!.jpg);
+background-image: url(Images/NEW!!!!!.jpg);
 
-      color: rgb(248, 196, 99);
+color: rgb(248, 196, 99);
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-    }
+}
 
-    .mynav a.active {
+.mynav a.active {
 
-      background-image: url(Images/pngtree-mysterious-cosmic-space-galaxy-nebula-background-picture-image_1179108.jpg);
+background-image: url(Images/pngtree-mysterious-cosmic-space-galaxy-nebula-background-picture-image_1179108.jpg);
    
-   }
+}
 
-   .mynav a.active:hover {
+.mynav a.active:hover {
 
-    background-image: url(Images/Screenshot\ 2024-10-09\ 113651.jpg.png);
+background-image: url(Images/Screenshot\ 2024-10-09\ 113651.jpg.png);
 
-  }
+}
 
-   .mynav a {
+.mynav a {
 
-    padding: 8px 18px;
+padding: 8px 18px;
 
-    background-image: url(/Images/asaa.jpg);
+background-image: url(/Images/asaa.jpg);
 
-    color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
 
-    border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-  }
+}
   
-  .mynav a:hover {
+.mynav a:hover {
 
-    background-image: url(Images/Screenshot\ 2024-10-09\ 113651.jpg.png);
+background-image: url(Images/Screenshot\ 2024-10-09\ 113651.jpg.png);
 
-  }
+}
   
-  style
+style
 
-  table, th, td, tr {
+table, th, td, tr {
 
-    border: 3px solid rgb(131, 131, 131);
+border: 3px solid rgb(131, 131, 131);
 
-    border-collapse: collapse;
+border-collapse: collapse;
 
-    color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-  }
+}
 
-  tr:nth-child(even) {
+tr:nth-child(even) {
 
-    color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-  }
+}
 
-  td {
+td {
 
-    color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-  }
+}
 
-  th {
+th {
 
-    color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-  }
+}
 
 

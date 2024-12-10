@@ -1,265 +1,264 @@
 body {
     
-   background-image: url(Images/purple-space-galaxy-tablet-a798ak1rtqcjb65l.jpg); 
+background-image: url(Images/purple-space-galaxy-tablet-a798ak1rtqcjb65l.jpg); 
    
-   font-family: Playpen Sans;
+font-family: Playpen Sans;
       
-  }
+}
      
-  h1 {
+h1 {
 
-   color: rgb(255, 0, 0);
+color: rgb(255, 0, 0);
 
-     }
-  
-     .title2{
+}
+ 
+.title2{
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-   }
+}
         
-     .header2{
+.header2{
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-   }
+}
      
-   .thirdbox2{
+.thirdbox2{
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-   }
+}
   
-   .fourthbox2{
+.fourthbox2{
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-   }
+}
  
-     .fifthbox2 {
+.fifthbox2 {
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px; 
+border-radius: 2px 24px; 
 
-   }
+}
     
-       .links2 {
+.links2 {
 
-         background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-         color: black;
+color: black;
 
-         border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-         margin-left: 25%;
+margin-left: 25%;
 
-         padding:8px;
+padding:8px;
 
-         width: 50%;
+width: 50%;
 
-         margin-top: 20px;
 
-         text-align: center;
+margin-top: 20px;
 
-         border-radius: 2px 24px;
+text-align: center;
 
-      }
+border-radius: 2px 24px;
+
+}
        
-     .table2{
+.table2{
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding: 10px;
+padding: 10px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-bottom: 1px solid rgb(0, 0, 0);
+border-bottom: 1px solid rgb(0, 0, 0);
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
   
-     }
+}
  
-     .footer2{
+.footer2{
 
-      background-color: rgb(235, 212, 86);
+background-color: rgb(235, 212, 86);
 
-      color: black;
+color: black;
 
-      border: 2px solid rgb(220, 47, 2);
+border: 2px solid rgb(220, 47, 2);
 
-      margin-left: 25%;
+margin-left: 25%;
 
-      padding:8px;
+padding:8px;
 
-      width: 50%;
+width: 50%;
 
-      margin-top: 20px;
+margin-top: 20px;
 
-      text-align: center;
+text-align: center;
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-   }
+}
  
-     a:link, a:visited {
+a:link, a:visited {
 
-      color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
 
-      background-color: transparent;
+background-color: transparent;
 
-      text-decoration: none;
+text-decoration: none;
 
-   }
+}
 
-   .mynav2 a.active2 {
+.mynav2 a.active2 {
 
-      background-color: red;
+background-color: red;
       
-      }
+}
    
-      .mynav2 a.active2:hover {
+.mynav2 a.active2:hover {
 
-         background-color: brown;
+background-color: brown;
 
-      }
+}
    
-    .mynav2 a {
+.mynav2 a {
 
-      padding: 8px 18px;
+padding: 8px 18px;
 
-      background-color: black;
+background-color: black;
 
-      color: rgb(0, 0, 0);
+color: rgb(0, 0, 0);
 
-      border-radius: 2px 24px;
+border-radius: 2px 24px;
 
-   }
+}
    
-   .mynav2 a:hover {
+.mynav2 a:hover {
 
-      background-color: grey;
+background-color: grey;
 
-      color: white;
+color: white;
 
-   }
+}
     
-   style
+style
    
-   table, th, td, tr {
+table, th, td, tr {
    
-      border: 3px solid rgb(131, 131, 131);
+border: 3px solid rgb(131, 131, 131);
    
-      border-collapse: collapse;
+border-collapse: collapse;
    
-      color: rgba(250, 163, 7);
-   }
+color: rgba(250, 163, 7);
+
+}
            
-   tr:nth-child(even) {
+tr:nth-child(even) {
 
-      color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-   }
+}
            
-   td {
+td {
 
-      color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-   }
+}
 
-   th {
+th {
 
-      color: rgba(250, 163, 7);
+color: rgba(250, 163, 7);
 
-   }
- 
- 
- 
+} 
